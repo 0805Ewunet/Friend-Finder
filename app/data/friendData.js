@@ -1,7 +1,7 @@
 var friends = [
     {
-      name: "Ewunet Kassa",
-      photo: "https://www.google.com/search?q=halle+berry&rlz=1C5CHFA_enUS818US818&tbm=isch&source=iu&ictx=1&fir=8CrvJySCzrn0NM%253A%252CQNyXBHpGvsMSXM%252C%252Fm%252F03knl&vet=1&usg=AI4_-kSBPzFRow5qdt8v6r-yN-nCeGZ-hw&sa=X&ved=2ahUKEwi0neHp0YfiAhWOjlkKHWf7COsQ_B0wLHoECAkQBg#imgrc=8CrvJySCzrn0NM:",
+      name: "Ewunet",
+      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
       scores: [
         "5",
         "1",
@@ -16,8 +16,8 @@ var friends = [
       ]
     },
     {
-      name: "Timothy Marquette",
-      photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      name: "Timothy",
+      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
       scores: [
         "4",
         "2",
@@ -32,8 +32,8 @@ var friends = [
       ]
     },
     {
-      name: "Matthew Hoffmann",
-      photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+      name: "Matthew",
+      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
       scores: [
         "5",
         "2",
@@ -48,8 +48,8 @@ var friends = [
       ]
     },
     {
-      name: "Mandy Kaine",
-      photo: "https://www.google.com/search?q=halle+berry&rlz=1C5CHFA_enUS818US818&tbm=isch&source=iu&ictx=1&fir=8CrvJySCzrn0NM%253A%252CQNyXBHpGvsMSXM%252C%252Fm%252F03knl&vet=1&usg=AI4_-kSBPzFRow5qdt8v6r-yN-nCeGZ-hw&sa=X&ved=2ahUKEwi0neHp0YfiAhWOjlkKHWf7COsQ_B0wLHoECAkQBg#imgrc=8CrvJySCzrn0NM:",
+      name: "Mandy",
+      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
       scores: [
         "3",
         "3",
@@ -64,8 +64,8 @@ var friends = [
       ]
     },
     {
-      name: "Alyssa Bonsa",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      name: "Luke",
+      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
       scores: [
         "4",
         "3",
@@ -80,8 +80,8 @@ var friends = [
       ]
     },
     {
-      name: "Ab Smith",
-      photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      name: "Smith",
+      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
       scores: [
         "4",
         "4",
