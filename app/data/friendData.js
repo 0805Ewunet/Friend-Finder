@@ -1,9 +1,8 @@
 var friends = [
     {
       name: "Ewunet",
-      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
+      photo:"https://pbs.twimg.com/profile_images/732897813927985152/bLqQPdTb_400x400.jpg",
       scores: [
-        "5",
         "1",
         "4",
         "4",
@@ -16,8 +15,8 @@ var friends = [
       ]
     },
     {
-      name: "Timothy",
-      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
+      name: "Mandy",
+      photo: "https://i.pinimg.com/236x/bb/94/5b/bb945b61750497e5875e12bc13bd4cf1--cameron-diaz-the-mask.jpg",
       scores: [
         "4",
         "2",
@@ -32,8 +31,8 @@ var friends = [
       ]
     },
     {
-      name: "Matthew",
-      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
+      name: "Lisa",
+      photo: "https://www.greenville.k12.sc.us/woodland/Upload2/Uploads/lfabian.gif?v=4/30/2019",
       scores: [
         "5",
         "2",
@@ -48,8 +47,8 @@ var friends = [
       ]
     },
     {
-      name: "Mandy",
-      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
+      name: "Alexis",
+      Photo: "https://media0.mensxp.com/media/content/2013/Jun/1370428711_14243.jpg",
       scores: [
         "3",
         "3",
@@ -64,8 +63,8 @@ var friends = [
       ]
     },
     {
-      name: "Luke",
-      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
+      name: "Angelina",
+      Photo:"https://data.whicdn.com/images/8683069/large.jpg",
       scores: [
         "4",
         "3",
@@ -80,8 +79,8 @@ var friends = [
       ]
     },
     {
-      name: "Smith",
-      photo: "https://image.shutterstock.com/image-photo/asian-model-fashion-girl-tassel-260nw-678404389.jpg",
+      name: "Scarlett",
+      photo:"http://www1.pictures.zimbio.com/gi/Scarlett+Johansson+2011+Vanity+Fair+Oscar+c2sRkIwAa8fl.jpg",
       scores: [
         "4",
         "4",
