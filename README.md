@@ -36,4 +36,4 @@ express - Express.
 Author
 Ewunet Kassa
 
-Trying using the app: https://quiet-springs-51028.herokuapp.com/
+Try using the app: https://quiet-springs-51028.herokuapp.com/
